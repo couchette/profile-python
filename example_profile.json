@@ -1,0 +1,1 @@
+{"otherData": {},"traceEvents":[{}, {"cat": "function", "dur": "437", "name": "print", "ph": "X", "pid": 0, "tid": "11276", "ts": "1227061495"}, {"cat": "function", "dur": "614", "name": "<function hello_world at 0x000002a5e5ba3d90>", "ph": "X", "pid": 0, "tid": "11276", "ts": "1227061489"}]}
